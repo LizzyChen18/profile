@@ -1,0 +1,79 @@
+
+@import url("https://fonts.googleapis.com/css2?family=Balsamiq+Sans:wght@400;700&display=swap");
+
+body {
+background-color: #f7f7f7;
+font-family: 'Balsamiq Sans', cursive;
+font
+color: #888888;
+font-size: 18px;
+}
+
+div {
+  text-align: center;
+  margin:auto;
+}
+
+h1 {
+  color: #7d5a5a;
+  font-family: 'Balsamiq Sans', cursive;
+  font-size: 35px;
+}
+
+h2 {
+  color: #7d5a5a;
+  font-family: 'Balsamiq Sans', cursive;
+  font-size: 25px;
+}
+
+img {
+  border-radius: 50%;
+  height:100px;
+  width:100px;
+}
+
+
+a {
+color:#584153;
+text-decoration: none;
+}
+
+
+.btn-pink {
+padding: 10px 14px;
+margin: 10px;
+background: #f6acc8;
+border-radius: 4px;
+}
+
+.btn-pink:hover {
+  background: #eb6383;
+  transition: 2s;
+}
+
+.list-inline {
+  list-style: none;
+  padding-left: 0;
+  margin: 0;
+  padding: 0;
+}
+
+.list-inline li {
+  font-size: 2em;
+  display:inline-block;
+  margin:0;
+}
+
+.btn-pink:hover {
+  background: #eb6383;
+  transition: 2s;
+}
+
+.card-white: {
+  background-color: #f4f4f4;
+  padding:40px;
+  box-shadow: 0px 10px 30px rgba(0,0,0,0.1);
+  margin:20px 0px;
+  text-align: center
+}
+
